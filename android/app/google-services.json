@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574591871984",
+    "project_id": "tugas-praktikum-d16ff",
+    "storage_bucket": "tugas-praktikum-d16ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574591871984:android:212e999fdc186dc9d98b35",
+        "android_client_info": {
+          "package_name": "com.rafky.indoleaks_market"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwPQjq_OzBpC0UpS-o1Y2Fw0iHgb7ZgvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
